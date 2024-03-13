@@ -7,7 +7,7 @@ import Title from '../../components/Title';
 export default function Profile() {
   return (
     <View style={styles.container}>
-      <Title title="hello World" />
+      <Title title="Profile" />
     </View>
   );
 }
